@@ -1,4 +1,4 @@
-# auto-whatsapp-message
+# whatsapp-auto-messager
 This python code is used to send message automatically to the desired phone number.
 
 Steps to use the code:-
